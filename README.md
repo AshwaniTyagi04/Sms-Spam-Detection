@@ -1,2 +1,2 @@
-# Sms-Spam-Detection
-In this project, We detect whether the sms send by the person is spam or not.
+# email-spam-classifier-new
+End to end code for the email spam classifier project
